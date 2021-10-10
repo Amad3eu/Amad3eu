@@ -1,5 +1,5 @@
 ### Olá, eu sou o Amadeu, seja bem vindos!
-
+- 👨‍💻 Front End Enginner
 - 🌱 Estudando desenvolvimento de sistemas no Senai/norte - Joinville
 - 👯 Estou trabalhando em projetos pessoais e colaborativos como  CoffeDev e Bc Photos..
 - 📫 luizfelipewarmling@gmail.com
