@@ -1,4 +1,4 @@
-### Olá, eu sou o Amadeu, seja bem vindos!
+### Olá, eu sou o Amadeu, Seja Bem Vindo!
 
 
 - 👨‍💻 Front End Enginner
