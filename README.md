@@ -1,12 +1,13 @@
 ### Olá, eu sou o Amadeu, Seja Bem Vindo!
 
 
-- 👨‍💻 Front End Enginner
-- 🌱 Estudando desenvolvimento de sistemas no Senai/norte - Joinville
-- 👯 Estou trabalhando em projetos pessoais e colaborativos como  CoffeDev e Bc Photos..
+- 👨‍💻 Front-end engineer
+- 🌱 Studying systems development in Senai / north - Joinville
+- I'm working on personal and collaborative projects like CoffeDev and Bc Photos ..
 - 📫 luizfelipewarmling@gmail.com
-- ⚡ Sou apaixonado pela arte do café e da leitura...
+- ⚡ I am passionate about the art of coffee and reading...
 
+##
 <div align="center">
   <a href="https://github.com/Amad3eu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amad3eu&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
