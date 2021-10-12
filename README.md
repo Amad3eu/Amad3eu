@@ -3,7 +3,7 @@
 
 - 👨‍💻 Front-end engineer
 - 🌱 Studying systems development in Senai / north - Joinville
-- I'm working on personal and collaborative projects like CoffeDev and Bc Photos ..
+- 🎭I'm working on personal and collaborative projects like CoffeDev and Bc Photos ..
 - 📫 luizfelipewarmling@gmail.com
 - ⚡ I am passionate about the art of coffee and reading...
 
