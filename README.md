@@ -8,7 +8,7 @@
 - ⚡ I am passionate about the art of coffee and reading...
 
 ##
-<div align="center">
+<div >
   <a href="https://github.com/Amad3eu">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Amad3eu&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amad3eu&layout=compact&langs_count=7&theme=calm"/>
