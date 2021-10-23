@@ -26,6 +26,9 @@
   
 </div>
   
+  ##
+  <a href="https://github.com/Amad3eu"><img alt="Amad3eu Grap" src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&bg_color=E6E6FA&color=3CB371&line=2E8B57&point=FFFFFF&hide_border=true" /></a>
+
 ##
   
   <div align="center">
