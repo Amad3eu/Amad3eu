@@ -27,7 +27,7 @@
 </div>
   
   ##
-  <a href="https://github.com/Amad3eu"><img alt="Amad3eu Grap" src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&bg_color=4682B4A&color=FF8C00&line=2E8B57&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Amad3eu"><img alt="Amad3eu Grap" src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&bg_color=4682B4A&color=FF7F50&line=2E8B57&point=FFFFFF&hide_border=true" /></a>
 
 ##
   
