@@ -10,8 +10,8 @@
 ##
 <div align ="center">
   <a href="https://github.com/Amad3eu">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Amad3eu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amad3eu&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Amad3eu&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amad3eu&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
   
   <div align="center"
@@ -27,7 +27,7 @@
 </div>
   
   ##
-  <a href="https://github.com/Amad3eu"><img alt="Amad3eu Grap" src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&bg_color=4682B4A&color=EEE8AA&line=F08080&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/Amad3eu"><img alt="Amad3eu Grap" src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&bg_color=4682B4A&color=EEE8AA&line=B0E0E6&point=FFFFFF&hide_border=true" /></a>
 
 ##
   
