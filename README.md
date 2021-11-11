@@ -11,7 +11,7 @@
 <div align ="center">
   <a href="https://github.com/Amad3eu">
   <img height="170em" src=""/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amad3eu&layout=compact&langs_count=7&theme=nord"/>
+  <img height="170em" src=""/>
 </div>
   
   <div align="center"
