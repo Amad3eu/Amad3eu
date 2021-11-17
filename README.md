@@ -29,7 +29,7 @@
   
 
 ##
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/)](https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz Felipe Warmling Amadeu-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/)](https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)]()
     
   </div>
