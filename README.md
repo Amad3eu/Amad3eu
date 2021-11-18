@@ -29,8 +29,6 @@
   
 
 ##
-  <div align="center"
-  [![linkedin Badge](https://img.shields.io/badge/-LuizFelipeWarmlingAmadeu-6633cc?style=flatsquare&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/)](https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/)>
   </div>
 
 
