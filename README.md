@@ -12,7 +12,6 @@
   <a href="https://github.com/Amad3eu">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amad3eu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amad3eu&layout=compact&langs_count=7&theme=react"/>
-  <a href="https://github.com/Amad3eu/github-readme-activity-graph"><img alt="Amadeu Graph"src="https://activity-graph.herokuapp.com/graph?username=Amad3eu&bg_color=0D1117&color=5BCDEC&line=5BCfEC&point=FFFFFF&hide_border=true" /></a>
     </div>
 
 
