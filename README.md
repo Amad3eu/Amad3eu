@@ -4,7 +4,7 @@
 - 👨‍💻 Front-end engineer
 - ☕  Owner | CoffeDev
 - 🌱 Studying systems development in Senai/North-Joinville
-- 📡I'm working on personal and collaborative projects like CoffeDev and Bc Photos ..
+- 📡I'm working on personal and collaborative projects like CoffeDev!
 - 📫 luizfelipewarmling@gmail.com
 - ⚡ I am passionate about the art of coffee and reading...
 
