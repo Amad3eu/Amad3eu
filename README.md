@@ -1,7 +1,7 @@
 ### 🎇Hi, I'm Amadeu, Welcome!
 
 
-- 👨‍💻 Front-end engineer
+- 👨‍💻 Programmer
 - ☕  Owner | CoffeDev
 - 🌱 Studying systems development in Senai/North-Joinville
 - 📡I'm working on personal and collaborative projects like CoffeDev!
