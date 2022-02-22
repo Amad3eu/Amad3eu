@@ -3,7 +3,6 @@
 - ☕  Owner | CoffeDev
 - 🌱 Studying systems development in Senai/North-Joinville
 - 📡I'm working on personal and collaborative projects like CoffeDev!
-- 📫 luizfelipewarmling@gmail.com
 - ⚡ I am passionate about the art of coffee and reading...
  
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Felipe-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211)](https://br.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211) 
