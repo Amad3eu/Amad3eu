@@ -35,7 +35,18 @@
 </div>
   
 
-##
+<p align="center" style="background:blue">
+  <a href="https://instagram.com/luiiz_amadeeu" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-luiiz_amadeeu-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="luizfelipewarmling@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=gmail" alt="Gmail"/>
+</a>
+</p>
+
   </div>
 
 
