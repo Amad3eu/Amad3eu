@@ -2,6 +2,7 @@
 - 👨‍💻 Programmer
 - ☕  Owner | CoffeDev
 - 🌱 Studying systems development in Senai/North-Joinville
+- 💬  Ask me about **ReactJs 🧠**
 - 📡I'm working on personal and collaborative projects like CoffeDev!
 - ⚡ I am passionate about the art of coffee and reading...
  
@@ -34,7 +35,7 @@
   
 </div>
   
-
+##
 <p align="center" style="background:blue">
   <a href="https://instagram.com/luiiz_amadeeu" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-luiiz_amadeeu-05122A?style=flat&logo=instagram" alt="instagram"/>
