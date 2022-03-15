@@ -1,4 +1,4 @@
-### 🎇Hi, I'm Luiz Felipe
+### Hi, I'm Luiz Felipe
 - 👨‍💻 Programmer
 - ☕  Owner | CoffeDev
 - 🌱 Studying systems development in Senai/North-Joinville
