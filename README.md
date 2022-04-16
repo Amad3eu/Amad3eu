@@ -15,7 +15,7 @@
 
 
   
-  <div align="center"
+  <div align="center">
        style="display: inline_block"><br>
      <img align="center" alt="Amadeu-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amadeu-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -50,7 +50,7 @@
 </a>
 </p>
 </div>
-    <div align="center"
+    <div align="center">
   <a href="https://github.com/Amad3eu/JsLesson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=JsLesson" />
 </a>
