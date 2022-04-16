@@ -33,7 +33,8 @@
   
 </div>
   
-##
+##  
+  <div align="center"
 <p align="center" style="background:blue">
   <a href="https://instagram.com/luiiz_amadeeu" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-luiiz_amadeeu-05122A?style=flat&logo=instagram" alt="instagram"/>
@@ -48,7 +49,14 @@
  <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=medium" alt="Gmail"/>
 </a>
 </p>
-
+</div>
+    <div align="center"
+  <a href="https://github.com/Amad3eu/JsLesson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=JsLesson" />
+</a>
+<a href="https://github.com/Amad3eu/GoodFood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=GoodFood" />
+</a>
   </div>
 
 
