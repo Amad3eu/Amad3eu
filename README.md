@@ -44,6 +44,9 @@
 <a href="luizfelipewarmling@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
+  <a href="https://codepen.io/Amad3eu" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Amad3eu-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
   <a href="https://medium.com/@luizfelipewarmling" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=medium" alt="Gmail"/>
 </a>
