@@ -27,7 +27,9 @@
  <img align="center" alt="Amadeu-Mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
     <img align="center" alt=Amadeu-Elixir height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
     <img align="center" alt=Amadeu-Docker height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-    <img align="center" alt=Amadeu-Docker height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+    <img align="center" alt=AmadeuQL height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+    <img align="center" alt=Amadeu-TailwindCss height="=35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
 
   
 </div>
