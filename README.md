@@ -1,7 +1,7 @@
 ### Hi, I'm Luiz Felipe
 - 👨‍💻 Programmer
 - ☕  Owner | CoffeDev
-- 🌱 Studying systems development in Senai/North-Joinville
+- 🌱  I’m always studying **JavaScript, ReactJS, TypeScript, NodeJS**
 - 💬  Ask me about **ReactJs 🧠**
 - 📡I'm working on personal and collaborative projects like CoffeDev!
 - ⚡ I am passionate about the art of coffee and reading...
