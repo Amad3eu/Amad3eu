@@ -31,12 +31,13 @@
     <img align="center" alt=Amadeu-TailwindCss height="=35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 
-  
+  ##
 </div>
   
-##  
+
   <div align="center"
 <p align="center" style="background:blue">
+  
   <a href="https://instagram.com/luiiz_amadeeu" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-luiiz_amadeeu-05122A?style=flat&logo=instagram" alt="Instagram"/>
 </a>
