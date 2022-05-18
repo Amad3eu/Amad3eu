@@ -38,7 +38,7 @@
   <div align="center"
 <p align="center" style="background:blue">
   <a href="https://instagram.com/luiiz_amadeeu" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luiiz_amadeeu-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-luiiz_amadeeu-05122A?style=flat&logo=instagram" alt="Instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -50,7 +50,10 @@
   <img align="center" src="https://img.shields.io/badge/-Amad3eu-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
   <a href="https://medium.com/@luizfelipewarmling" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=medium" alt="Gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Warmling-05122A?style=flat&logo=medium" alt="Medium"/>
+</a>
+    <a href="https://twitter.com/Amad3eu" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Luiz%20Felipe%20Amadeu-05122A?style=flat&logo=twitter" alt="Twitter"/>
 </a>
 </p>
 </div>
