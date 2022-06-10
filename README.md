@@ -60,10 +60,10 @@
 </div>
     <div align="center">
   <a href="https://github.com/Amad3eu/JsLesson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=JsLesson&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=JsLesson&title_color=fff&icon_color=09f9f9&text_color=9f9f9f&bg_color=0A0D11" />
 </a>
 <a href="https://github.com/Amad3eu/GoodFood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=GoodFood&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amad3eu&repo=GoodFood&title_color=fff&icon_color=09f9f9&text_color=9f9f9f&bg_color=0A0D11" />
 </a>
   </div>
 
