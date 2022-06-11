@@ -28,6 +28,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![ESlint](https://img.shields.io/badge/-ESlint-61DAFB?style=flat-square&logo=EsLint&logoColor=black)
+![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat-square&logo=Prettier)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Prisma](https://img.shields.io/badge/-Prisma-2496ED?style=flat-square&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -37,7 +39,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/-vite-181717?style=flat-square&logo=vite)
+![Vite](https://img.shields.io/badge/-Vite-181717?style=flat-square&logo=Vite)
+![Vite](https://img.shields.io/badge/-Hyper-181717?style=flat-square&logo=Hyper)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-FCC624?style=flat-square&logo=Windows&logoColor=black)
 
