@@ -1,5 +1,5 @@
 
-![Banner Image](header.gif)
+![Banner Image](header.png)
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a development systems student 👨🏻‍💻 from Brazil who loves to create for the web 🌐.</h3>
 
 <p align="center">
