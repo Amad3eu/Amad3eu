@@ -46,6 +46,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-00D1B2?style=flat-square&logo=vue.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-17202C?style=flat-square&logo=Go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
