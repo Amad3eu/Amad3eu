@@ -40,9 +40,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-181717?style=flat-square&logo=Vite)
-![Vite](https://img.shields.io/badge/-Hyper-181717?style=flat-square&logo=Hyper)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-FCC624?style=flat-square&logo=Windows&logoColor=black)
 
 ## 🤔 Stuff To Explore
 
